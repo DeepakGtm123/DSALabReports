@@ -179,7 +179,7 @@ int main(){
 	// Heap sort
 	heapSort(arr, n); 
 	cout << "Heap Sorted Array: \n"; 
-    printArray(arr, n);
+    	printArray(arr, n);
 	 
 	return 0; 
 }
